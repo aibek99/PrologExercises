@@ -1,0 +1,361 @@
+('King George VI', 'King George VI').
+('King George VI', 'Prince Philip').
+('King George VI', 'Charles').
+('King George VI', 'Prince Andrew').
+('King George VI', 'Prince Edward').
+('King George VI', 'Prince William').
+('King George VI', 'Prince Harry').
+('King George VI', 'Prince George of Cambridge').
+('King George VI', 'Prince Louis of Cambridge').
+('King George VI', 'Archie Harrison Mountbatten-Windsor').
+('King George VI', 'Queen Elizabeth').
+('King George VI', 'Queen Elizabeth II').
+('King George VI', 'Princess Margaret').
+('King George VI', 'Camila').
+('King George VI', 'Diana').
+('King George VI', 'Anne').
+('King George VI', 'Catherine').
+('King George VI', 'Meghan').
+('King George VI', 'Princess Charlotte of Cambridge').
+('Prince Philip', 'King George VI').
+('Prince Philip', 'Prince Philip').
+('Prince Philip', 'Charles').
+('Prince Philip', 'Prince Andrew').
+('Prince Philip', 'Prince Edward').
+('Prince Philip', 'Prince William').
+('Prince Philip', 'Prince Harry').
+('Prince Philip', 'Prince George of Cambridge').
+('Prince Philip', 'Prince Louis of Cambridge').
+('Prince Philip', 'Archie Harrison Mountbatten-Windsor').
+('Prince Philip', 'Queen Elizabeth').
+('Prince Philip', 'Queen Elizabeth II').
+('Prince Philip', 'Princess Margaret').
+('Prince Philip', 'Camila').
+('Prince Philip', 'Diana').
+('Prince Philip', 'Anne').
+('Prince Philip', 'Catherine').
+('Prince Philip', 'Meghan').
+('Prince Philip', 'Princess Charlotte of Cambridge').
+('Charles', 'King George VI').
+('Charles', 'Prince Philip').
+('Charles', 'Charles').
+('Charles', 'Prince Andrew').
+('Charles', 'Prince Edward').
+('Charles', 'Prince William').
+('Charles', 'Prince Harry').
+('Charles', 'Prince George of Cambridge').
+('Charles', 'Prince Louis of Cambridge').
+('Charles', 'Archie Harrison Mountbatten-Windsor').
+('Charles', 'Queen Elizabeth').
+('Charles', 'Queen Elizabeth II').
+('Charles', 'Princess Margaret').
+('Charles', 'Camila').
+('Charles', 'Diana').
+('Charles', 'Anne').
+('Charles', 'Catherine').
+('Charles', 'Meghan').
+('Charles', 'Princess Charlotte of Cambridge').
+('Prince Andrew', 'King George VI').
+('Prince Andrew', 'Prince Philip').
+('Prince Andrew', 'Charles').
+('Prince Andrew', 'Prince Andrew').
+('Prince Andrew', 'Prince Edward').
+('Prince Andrew', 'Prince William').
+('Prince Andrew', 'Prince Harry').
+('Prince Andrew', 'Prince George of Cambridge').
+('Prince Andrew', 'Prince Louis of Cambridge').
+('Prince Andrew', 'Archie Harrison Mountbatten-Windsor').
+('Prince Andrew', 'Queen Elizabeth').
+('Prince Andrew', 'Queen Elizabeth II').
+('Prince Andrew', 'Princess Margaret').
+('Prince Andrew', 'Camila').
+('Prince Andrew', 'Diana').
+('Prince Andrew', 'Anne').
+('Prince Andrew', 'Catherine').
+('Prince Andrew', 'Meghan').
+('Prince Andrew', 'Princess Charlotte of Cambridge').
+('Prince Edward', 'King George VI').
+('Prince Edward', 'Prince Philip').
+('Prince Edward', 'Charles').
+('Prince Edward', 'Prince Andrew').
+('Prince Edward', 'Prince Edward').
+('Prince Edward', 'Prince William').
+('Prince Edward', 'Prince Harry').
+('Prince Edward', 'Prince George of Cambridge').
+('Prince Edward', 'Prince Louis of Cambridge').
+('Prince Edward', 'Archie Harrison Mountbatten-Windsor').
+('Prince Edward', 'Queen Elizabeth').
+('Prince Edward', 'Queen Elizabeth II').
+('Prince Edward', 'Princess Margaret').
+('Prince Edward', 'Camila').
+('Prince Edward', 'Diana').
+('Prince Edward', 'Anne').
+('Prince Edward', 'Catherine').
+('Prince Edward', 'Meghan').
+('Prince Edward', 'Princess Charlotte of Cambridge').
+('Prince William', 'King George VI').
+('Prince William', 'Prince Philip').
+('Prince William', 'Charles').
+('Prince William', 'Prince Andrew').
+('Prince William', 'Prince Edward').
+('Prince William', 'Prince William').
+('Prince William', 'Prince Harry').
+('Prince William', 'Prince George of Cambridge').
+('Prince William', 'Prince Louis of Cambridge').
+('Prince William', 'Archie Harrison Mountbatten-Windsor').
+('Prince William', 'Queen Elizabeth').
+('Prince William', 'Queen Elizabeth II').
+('Prince William', 'Princess Margaret').
+('Prince William', 'Camila').
+('Prince William', 'Diana').
+('Prince William', 'Anne').
+('Prince William', 'Catherine').
+('Prince William', 'Meghan').
+('Prince William', 'Princess Charlotte of Cambridge').
+('Prince Harry', 'King George VI').
+('Prince Harry', 'Prince Philip').
+('Prince Harry', 'Charles').
+('Prince Harry', 'Prince Andrew').
+('Prince Harry', 'Prince Edward').
+('Prince Harry', 'Prince William').
+('Prince Harry', 'Prince Harry').
+('Prince Harry', 'Prince George of Cambridge').
+('Prince Harry', 'Prince Louis of Cambridge').
+('Prince Harry', 'Archie Harrison Mountbatten-Windsor').
+('Prince Harry', 'Queen Elizabeth').
+('Prince Harry', 'Queen Elizabeth II').
+('Prince Harry', 'Princess Margaret').
+('Prince Harry', 'Camila').
+('Prince Harry', 'Diana').
+('Prince Harry', 'Anne').
+('Prince Harry', 'Catherine').
+('Prince Harry', 'Meghan').
+('Prince Harry', 'Princess Charlotte of Cambridge').
+('Prince George of Cambridge', 'King George VI').
+('Prince George of Cambridge', 'Prince Philip').
+('Prince George of Cambridge', 'Charles').
+('Prince George of Cambridge', 'Prince Andrew').
+('Prince George of Cambridge', 'Prince Edward').
+('Prince George of Cambridge', 'Prince William').
+('Prince George of Cambridge', 'Prince Harry').
+('Prince George of Cambridge', 'Prince George of Cambridge').
+('Prince George of Cambridge', 'Prince Louis of Cambridge').
+('Prince George of Cambridge', 'Archie Harrison Mountbatten-Windsor').
+('Prince George of Cambridge', 'Queen Elizabeth').
+('Prince George of Cambridge', 'Queen Elizabeth II').
+('Prince George of Cambridge', 'Princess Margaret').
+('Prince George of Cambridge', 'Camila').
+('Prince George of Cambridge', 'Diana').
+('Prince George of Cambridge', 'Anne').
+('Prince George of Cambridge', 'Catherine').
+('Prince George of Cambridge', 'Meghan').
+('Prince George of Cambridge', 'Princess Charlotte of Cambridge').
+('Prince Louis of Cambridge', 'King George VI').
+('Prince Louis of Cambridge', 'Prince Philip').
+('Prince Louis of Cambridge', 'Charles').
+('Prince Louis of Cambridge', 'Prince Andrew').
+('Prince Louis of Cambridge', 'Prince Edward').
+('Prince Louis of Cambridge', 'Prince William').
+('Prince Louis of Cambridge', 'Prince Harry').
+('Prince Louis of Cambridge', 'Prince George of Cambridge').
+('Prince Louis of Cambridge', 'Prince Louis of Cambridge').
+('Prince Louis of Cambridge', 'Archie Harrison Mountbatten-Windsor').
+('Prince Louis of Cambridge', 'Queen Elizabeth').
+('Prince Louis of Cambridge', 'Queen Elizabeth II').
+('Prince Louis of Cambridge', 'Princess Margaret').
+('Prince Louis of Cambridge', 'Camila').
+('Prince Louis of Cambridge', 'Diana').
+('Prince Louis of Cambridge', 'Anne').
+('Prince Louis of Cambridge', 'Catherine').
+('Prince Louis of Cambridge', 'Meghan').
+('Prince Louis of Cambridge', 'Princess Charlotte of Cambridge').
+('Archie Harrison Mountbatten-Windsor', 'King George VI').
+('Archie Harrison Mountbatten-Windsor', 'Prince Philip').
+('Archie Harrison Mountbatten-Windsor', 'Charles').
+('Archie Harrison Mountbatten-Windsor', 'Prince Andrew').
+('Archie Harrison Mountbatten-Windsor', 'Prince Edward').
+('Archie Harrison Mountbatten-Windsor', 'Prince William').
+('Archie Harrison Mountbatten-Windsor', 'Prince Harry').
+('Archie Harrison Mountbatten-Windsor', 'Prince George of Cambridge').
+('Archie Harrison Mountbatten-Windsor', 'Prince Louis of Cambridge').
+('Archie Harrison Mountbatten-Windsor', 'Archie Harrison Mountbatten-Windsor').
+('Archie Harrison Mountbatten-Windsor', 'Queen Elizabeth').
+('Archie Harrison Mountbatten-Windsor', 'Queen Elizabeth II').
+('Archie Harrison Mountbatten-Windsor', 'Princess Margaret').
+('Archie Harrison Mountbatten-Windsor', 'Camila').
+('Archie Harrison Mountbatten-Windsor', 'Diana').
+('Archie Harrison Mountbatten-Windsor', 'Anne').
+('Archie Harrison Mountbatten-Windsor', 'Catherine').
+('Archie Harrison Mountbatten-Windsor', 'Meghan').
+('Archie Harrison Mountbatten-Windsor', 'Princess Charlotte of Cambridge').
+('Queen Elizabeth', 'King George VI').
+('Queen Elizabeth', 'Prince Philip').
+('Queen Elizabeth', 'Charles').
+('Queen Elizabeth', 'Prince Andrew').
+('Queen Elizabeth', 'Prince Edward').
+('Queen Elizabeth', 'Prince William').
+('Queen Elizabeth', 'Prince Harry').
+('Queen Elizabeth', 'Prince George of Cambridge').
+('Queen Elizabeth', 'Prince Louis of Cambridge').
+('Queen Elizabeth', 'Archie Harrison Mountbatten-Windsor').
+('Queen Elizabeth', 'Queen Elizabeth').
+('Queen Elizabeth', 'Queen Elizabeth II').
+('Queen Elizabeth', 'Princess Margaret').
+('Queen Elizabeth', 'Camila').
+('Queen Elizabeth', 'Diana').
+('Queen Elizabeth', 'Anne').
+('Queen Elizabeth', 'Catherine').
+('Queen Elizabeth', 'Meghan').
+('Queen Elizabeth', 'Princess Charlotte of Cambridge').
+('Queen Elizabeth II', 'King George VI').
+('Queen Elizabeth II', 'Prince Philip').
+('Queen Elizabeth II', 'Charles').
+('Queen Elizabeth II', 'Prince Andrew').
+('Queen Elizabeth II', 'Prince Edward').
+('Queen Elizabeth II', 'Prince William').
+('Queen Elizabeth II', 'Prince Harry').
+('Queen Elizabeth II', 'Prince George of Cambridge').
+('Queen Elizabeth II', 'Prince Louis of Cambridge').
+('Queen Elizabeth II', 'Archie Harrison Mountbatten-Windsor').
+('Queen Elizabeth II', 'Queen Elizabeth').
+('Queen Elizabeth II', 'Queen Elizabeth II').
+('Queen Elizabeth II', 'Princess Margaret').
+('Queen Elizabeth II', 'Camila').
+('Queen Elizabeth II', 'Diana').
+('Queen Elizabeth II', 'Anne').
+('Queen Elizabeth II', 'Catherine').
+('Queen Elizabeth II', 'Meghan').
+('Queen Elizabeth II', 'Princess Charlotte of Cambridge').
+('Princess Margaret', 'King George VI').
+('Princess Margaret', 'Prince Philip').
+('Princess Margaret', 'Charles').
+('Princess Margaret', 'Prince Andrew').
+('Princess Margaret', 'Prince Edward').
+('Princess Margaret', 'Prince William').
+('Princess Margaret', 'Prince Harry').
+('Princess Margaret', 'Prince George of Cambridge').
+('Princess Margaret', 'Prince Louis of Cambridge').
+('Princess Margaret', 'Archie Harrison Mountbatten-Windsor').
+('Princess Margaret', 'Queen Elizabeth').
+('Princess Margaret', 'Queen Elizabeth II').
+('Princess Margaret', 'Princess Margaret').
+('Princess Margaret', 'Camila').
+('Princess Margaret', 'Diana').
+('Princess Margaret', 'Anne').
+('Princess Margaret', 'Catherine').
+('Princess Margaret', 'Meghan').
+('Princess Margaret', 'Princess Charlotte of Cambridge').
+('Camila', 'King George VI').
+('Camila', 'Prince Philip').
+('Camila', 'Charles').
+('Camila', 'Prince Andrew').
+('Camila', 'Prince Edward').
+('Camila', 'Prince William').
+('Camila', 'Prince Harry').
+('Camila', 'Prince George of Cambridge').
+('Camila', 'Prince Louis of Cambridge').
+('Camila', 'Archie Harrison Mountbatten-Windsor').
+('Camila', 'Queen Elizabeth').
+('Camila', 'Queen Elizabeth II').
+('Camila', 'Princess Margaret').
+('Camila', 'Camila').
+('Camila', 'Diana').
+('Camila', 'Anne').
+('Camila', 'Catherine').
+('Camila', 'Meghan').
+('Camila', 'Princess Charlotte of Cambridge').
+('Diana', 'King George VI').
+('Diana', 'Prince Philip').
+('Diana', 'Charles').
+('Diana', 'Prince Andrew').
+('Diana', 'Prince Edward').
+('Diana', 'Prince William').
+('Diana', 'Prince Harry').
+('Diana', 'Prince George of Cambridge').
+('Diana', 'Prince Louis of Cambridge').
+('Diana', 'Archie Harrison Mountbatten-Windsor').
+('Diana', 'Queen Elizabeth').
+('Diana', 'Queen Elizabeth II').
+('Diana', 'Princess Margaret').
+('Diana', 'Camila').
+('Diana', 'Diana').
+('Diana', 'Anne').
+('Diana', 'Catherine').
+('Diana', 'Meghan').
+('Diana', 'Princess Charlotte of Cambridge').
+('Anne', 'King George VI').
+('Anne', 'Prince Philip').
+('Anne', 'Charles').
+('Anne', 'Prince Andrew').
+('Anne', 'Prince Edward').
+('Anne', 'Prince William').
+('Anne', 'Prince Harry').
+('Anne', 'Prince George of Cambridge').
+('Anne', 'Prince Louis of Cambridge').
+('Anne', 'Archie Harrison Mountbatten-Windsor').
+('Anne', 'Queen Elizabeth').
+('Anne', 'Queen Elizabeth II').
+('Anne', 'Princess Margaret').
+('Anne', 'Camila').
+('Anne', 'Diana').
+('Anne', 'Anne').
+('Anne', 'Catherine').
+('Anne', 'Meghan').
+('Anne', 'Princess Charlotte of Cambridge').
+('Catherine', 'King George VI').
+('Catherine', 'Prince Philip').
+('Catherine', 'Charles').
+('Catherine', 'Prince Andrew').
+('Catherine', 'Prince Edward').
+('Catherine', 'Prince William').
+('Catherine', 'Prince Harry').
+('Catherine', 'Prince George of Cambridge').
+('Catherine', 'Prince Louis of Cambridge').
+('Catherine', 'Archie Harrison Mountbatten-Windsor').
+('Catherine', 'Queen Elizabeth').
+('Catherine', 'Queen Elizabeth II').
+('Catherine', 'Princess Margaret').
+('Catherine', 'Camila').
+('Catherine', 'Diana').
+('Catherine', 'Anne').
+('Catherine', 'Catherine').
+('Catherine', 'Meghan').
+('Catherine', 'Princess Charlotte of Cambridge').
+('Meghan', 'King George VI').
+('Meghan', 'Prince Philip').
+('Meghan', 'Charles').
+('Meghan', 'Prince Andrew').
+('Meghan', 'Prince Edward').
+('Meghan', 'Prince William').
+('Meghan', 'Prince Harry').
+('Meghan', 'Prince George of Cambridge').
+('Meghan', 'Prince Louis of Cambridge').
+('Meghan', 'Archie Harrison Mountbatten-Windsor').
+('Meghan', 'Queen Elizabeth').
+('Meghan', 'Queen Elizabeth II').
+('Meghan', 'Princess Margaret').
+('Meghan', 'Camila').
+('Meghan', 'Diana').
+('Meghan', 'Anne').
+('Meghan', 'Catherine').
+('Meghan', 'Meghan').
+('Meghan', 'Princess Charlotte of Cambridge').
+('Princess Charlotte of Cambridge', 'King George VI').
+('Princess Charlotte of Cambridge', 'Prince Philip').
+('Princess Charlotte of Cambridge', 'Charles').
+('Princess Charlotte of Cambridge', 'Prince Andrew').
+('Princess Charlotte of Cambridge', 'Prince Edward').
+('Princess Charlotte of Cambridge', 'Prince William').
+('Princess Charlotte of Cambridge', 'Prince Harry').
+('Princess Charlotte of Cambridge', 'Prince George of Cambridge').
+('Princess Charlotte of Cambridge', 'Prince Louis of Cambridge').
+('Princess Charlotte of Cambridge', 'Archie Harrison Mountbatten-Windsor').
+('Princess Charlotte of Cambridge', 'Queen Elizabeth').
+('Princess Charlotte of Cambridge', 'Queen Elizabeth II').
+('Princess Charlotte of Cambridge', 'Princess Margaret').
+('Princess Charlotte of Cambridge', 'Camila').
+('Princess Charlotte of Cambridge', 'Diana').
+('Princess Charlotte of Cambridge', 'Anne').
+('Princess Charlotte of Cambridge', 'Catherine').
+('Princess Charlotte of Cambridge', 'Meghan').
+('Princess Charlotte of Cambridge', 'Princess Charlotte of Cambridge').
